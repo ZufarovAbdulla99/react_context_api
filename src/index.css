@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+/* input {
+    background-color: rgb(130, 126, 126);
+}
+
+input::placeholder {
+    color: black!important;
+} */
+/* 
+button {
+    background-color: rgba(113, 116, 116, 0.45)!important;
+} */
